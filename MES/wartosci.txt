@@ -1,0 +1,4 @@
+Wartoœæ maksymalna temperatury : 408.13657
+Wartoœæ minimalna temperatury :376.45566
+Wartoœæ temperatury na brzegu izolacji :376.45566
+Wartoœæ temperatury na brzegu przewodnika :408.13007
